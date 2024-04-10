@@ -1,0 +1,2 @@
+# Animagine
+ Testing Fetch.ai
